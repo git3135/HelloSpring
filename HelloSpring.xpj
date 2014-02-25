@@ -1,0 +1,21 @@
+HelloSpring/
+HelloSpring/stories/
+HelloSpring/stories/in progress/
+HelloSpring/stories/in test/
+HelloSpring/stories/completed/
+HelloSpring/stories/accepted/
+HelloSpring/stories/done/
+HelloSpring/stories/HelloSpring.xst
+HelloSpring/code/
+HelloSpring/code/src/
+HelloSpring/code/src/HelloWorld.java
+HelloSpring/code/lib/
+HelloSpring/code/lib/spring-expression-3.2.4.RELEASE.jar
+HelloSpring/code/lib/spring-core-3.2.4.RELEASE.jar
+HelloSpring/code/lib/spring-context-3.2.4.RELEASE.jar
+HelloSpring/code/lib/spring-beans-3.2.4.RELEASE.jar
+HelloSpring/code/lib/commons-logging-1.1.1.jar
+HelloSpring/code/bin/
+HelloSpring/code/bin/Beans.xml
+HelloSpring/resources/
+HelloSpring/HelloSpring.xpj

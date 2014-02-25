@@ -1,4 +1,0 @@
-HelloSpring
-===========
-
-HelloSpring repository
