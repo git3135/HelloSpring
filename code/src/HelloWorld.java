@@ -9,7 +9,7 @@ public class HelloWorld {
 	}
 
 	public void getMessage() { //uioyhuiyhu
-		System.out.println("Your Message : " + message); 
+		System.out.println("Your Message1 : " + message); 
 		System.out.println("Your Message2 : " + message); 
 	}
 
